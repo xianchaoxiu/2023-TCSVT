@@ -22,4 +22,4 @@ Please give credit to this paper if this code is useful and helpful for your res
      }
 
 ### Contact 
-Please feel free to contact xcxiu@shu.edu.cn.
+Please feel free to contact xcxiu@shu.edu.cn if you have any questions.
