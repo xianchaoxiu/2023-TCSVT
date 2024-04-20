@@ -1,4 +1,4 @@
-# Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis
+# TCCA-O 
 
 The code in this toolbox implements ["Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis"](https://ieeexplore.ieee.org/abstract/document/10091146). 
 
