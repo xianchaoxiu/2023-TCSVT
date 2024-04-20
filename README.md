@@ -1,5 +1,4 @@
 # Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis
----------------------
 
 The code in this toolbox implements "Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis". More specifically, it is detailed as
 ![alt text](./framework.png)
