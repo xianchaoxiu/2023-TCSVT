@@ -7,14 +7,12 @@ Directly run demo.
 
 ### Citation
 Please give credit to this paper if this code is useful and helpful for your research.
-    @article{hong2022spectralformer,
-      title={Spectralformer: Rethinking hyperspectral image classification with transformers},
-      author={Hong, Danfeng and Han, Zhu and Yao, Jing and Gao, Lianru and Zhang, Bing and Plaza, Antonio and Chanussot, Jocelyn},
-      journal={IEEE Trans. Geosci. Remote Sens.},
-      year={2022},
-      volume={60},
-      pages={1-15},
-      note = {DOI: 10.1109/TGRS.2021.3130716}
+
+    @inproceedings{liang2021mutual,
+      title={Mutual Affine Network for Spatially Variant Kernel Estimation in Blind Image Super-Resolution},
+      author={Liang, Jingyun and Sun, Guolei and Zhang, Kai and Van Gool, Luc and Timofte, Radu},
+      booktitle={IEEE International Conference on Computer Vision},
+      year={2021}
     }
 
 ### Contact Information
