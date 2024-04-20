@@ -6,7 +6,7 @@ The code in this toolbox implements ["Learning High-Order Multi-View Representat
 
 Quick Testing
 ---------------------
-Directly run demo.
+Directly run demo.m to reproduce the results.
 
 Citation
 ---------------------
