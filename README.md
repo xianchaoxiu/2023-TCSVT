@@ -4,12 +4,10 @@ The code in this toolbox implements ["Learning High-Order Multi-View Representat
 
 ![alt text](./framework.png)
 
-Quick Testing
----------------------
+### Testing
 Directly run demo.m to reproduce the results.
 
-Citation
----------------------
+### Citation
 Please give credit to this paper if this code is useful and helpful for your research.
 
      @article{sun2023learning,
@@ -23,7 +21,5 @@ Please give credit to this paper if this code is useful and helpful for your res
       publisher = {IEEE}
      }
 
-
-Contact Information
----------------------
+### Contact 
 Please feel free to contact xcxiu@shu.edu.cn if you have any questions.
