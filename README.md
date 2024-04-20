@@ -1,5 +1,8 @@
 # Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis
 
+Danfeng Hong, Xin Wu, Pedram Ghamisi, Jocelyn Chanussot, Naoto Yokoya, Xiaoxiang Zhu
+---------------------
+
 The code in this toolbox implements "Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis". More specifically, it is detailed as
 ![alt text](./framework.png)
 
