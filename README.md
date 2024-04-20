@@ -1,12 +1,15 @@
-# Tensor Canonical Correlation Analysis with Orthogonality and Sparsity (TCCA-OS)
+# Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis
+J. Sun, X. Xiu, Z. Luo, W. Liu
+---------------------
+
 The code in this toolbox implements "Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis". More specifically, it is detailed as
 ![alt text](./framework.png)
 
-### Quick Testing
+Quick Testing
 ---------------------
 Directly run demo.
 
-### Citation
+Citation
 ---------------------
 Please give credit to this paper if this code is useful and helpful for your research.
 
@@ -17,7 +20,7 @@ Please give credit to this paper if this code is useful and helpful for your res
       year={2021}
     }
 
-### Contact Information
+Contact Information
 ---------------------
 Danfeng Hong: xcxiu@shu.edu.cn<br>
 Please feel free to contact me if you have any questions.
