@@ -7,7 +7,7 @@ The code in this toolbox implements ["Learning High-Order Multi-View Representat
 Directly run tcca-o.m and tcca-os.m for reproduction.
 
 ### Citation
-Please give credit to this paper if this code is useful and helpful for your research.
+Please give credits to this paper if this code is useful and helpful for your research.
 
      @article{sun2023learning,
       title     = {Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis},
