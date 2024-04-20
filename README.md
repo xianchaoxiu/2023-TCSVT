@@ -3,9 +3,11 @@ The code in this toolbox implements "Learning High-Order Multi-View Representati
 ![alt text](./framework.png)
 
 ### Quick Testing
+---------------------
 Directly run demo.
 
 ### Citation
+---------------------
 Please give credit to this paper if this code is useful and helpful for your research.
 
     @inproceedings{liang2021mutual,
@@ -16,6 +18,6 @@ Please give credit to this paper if this code is useful and helpful for your res
     }
 
 ### Contact Information
-Xianchao Xiu: xcxiu@shu.edu.cn
-
-Department of Automation, Shanghai University
+---------------------
+Danfeng Hong: xcxiu@shu.edu.cn<br>
+Please feel free to contact me if you have any questions.
