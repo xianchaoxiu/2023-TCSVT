@@ -1,5 +1,4 @@
 # Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis
-J. Sun, X. Xiu, Z. Luo, W. Liu
 ---------------------
 
 The code in this toolbox implements "Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis". More specifically, it is detailed as
@@ -13,14 +12,18 @@ Citation
 ---------------------
 Please give credit to this paper if this code is useful and helpful for your research.
 
-    @inproceedings{liang2021mutual,
-      title={Mutual Affine Network for Spatially Variant Kernel Estimation in Blind Image Super-Resolution},
-      author={Liang, Jingyun and Sun, Guolei and Zhang, Kai and Van Gool, Luc and Timofte, Radu},
-      booktitle={IEEE International Conference on Computer Vision},
-      year={2021}
-    }
+     @article{sun2023learning,
+      title     = {Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis},
+      author    = {Sun, Jianqin and Xiu, Xianchao and Luo, Ziyan and Liu, Wanquan},
+      journal   = {IEEE Transactions on Circuits and Systems for Video Technology},
+      year      = {2023},
+      volume    = {33},
+      number    = {10},
+      pages     = {5645--5654},
+      publisher = {IEEE}
+     }
+
 
 Contact Information
 ---------------------
-Danfeng Hong: xcxiu@shu.edu.cn<br>
-Please feel free to contact me if you have any questions.
+Please feel free to contact xcxiu@shu.edu.cn if you have any questions.
