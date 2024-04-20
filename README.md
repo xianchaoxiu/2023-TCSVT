@@ -5,7 +5,7 @@ The code in this toolbox implements ["Learning High-Order Multi-View Representat
 ![alt text](./framework.png)
 
 ### Testing
-Directly run demo.m to reproduce the results.
+Directly run demo.m to for reproduction.
 
 ### Citation
 Please give credit to this paper if this code is useful and helpful for your research.
